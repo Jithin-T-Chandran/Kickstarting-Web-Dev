@@ -1,0 +1,23 @@
+JavaScript
+Follow this link and study the topics below
+https://www.w3schools.com/js/default.asp
+
+
+HOME
+Introduction
+Where To
+Output
+Statements
+Syntax
+Comments
+Variables
+Let
+Const
+Operators
+Arithmetic
+Assignment
+Precedence
+Data Types
+Functions
+Objects
+Events
