@@ -1,0 +1,14 @@
+Below you will find HTML forms
+
+Read all the topics in that
+
+https://www.w3schools.com/html/html_forms.asp
+
+
+Answer the following question from forms to the end
+
+https://www.w3schools.com/html/exercise.asp?filename=exercise_html_forms1. -- start
+
+TO
+
+https://www.w3schools.com/html/exercise.asp?filename=exercise_html_form_attributes4 ---end

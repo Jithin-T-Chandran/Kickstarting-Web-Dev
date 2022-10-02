@@ -1,0 +1,33 @@
+HTML:
+Follow this link and study the topics below
+https://www.w3schools.com/html/default.asp
+
+
+Introduction
+Basic
+Elements
+Attributes
+Headings
+Paragraphs
+Styles
+Formatting
+Quotations
+Comments
+Colors //you can skip
+CSS
+Links
+Images
+Tables
+Lists
+Block & Inline
+Classes
+Id
+JavaScript
+File Paths
+Head
+Layout
+Responsive
+Computercode
+Semantics
+Style Guide
+Entities

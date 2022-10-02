@@ -1,0 +1,19 @@
+1. Install VScode (Editor ) into your laptop. 
+Always use VScode to right code. Online editors never work as 
+expected.Dont use them.
+(Follow these steps from this video ->  https://www.youtube.com/watch?v=j_Xjse7e_GY     )
+
+2. Learn how to create and run html, css and javascript files in VScode editor.
+https://www.youtube.com/watch?v=Bd9p3XxmrfE
+
+3. What is front-end and back-end? Watch this video
+https://www.youtube.com/watch?v=PRSyHTajxPk
+
+4. https://www.youtube.com/watch?v=yEHCfRWz-EI&t=4s
+
+Watch this video and answer
+1) What is node according to you? Why was it made?
+2) What is V8 engine?
+
+5. Install NodeJs
+   https://www.youtube.com/watch?v=JINE4D0Syqw
